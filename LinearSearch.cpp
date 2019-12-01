@@ -1,3 +1,5 @@
+//je number ta input dibo oi number ta array r protek ta element
+//er sathe compare korbo....
 #include<bits/stdc++.h>
 using namespace std;
 int linear_search(int a[],int len,int b){
