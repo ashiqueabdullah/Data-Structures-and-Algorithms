@@ -1,5 +1,6 @@
 //je number ta input dibo oi number ta array r protek ta element
 //er sathe compare korbo....
+//time complexity O(n)..space complexity O(n)
 #include<bits/stdc++.h>
 using namespace std;
 int linear_search(int a[],int len,int b){
