@@ -1,4 +1,5 @@
 //ekta theke arekta boro hole sathe sathe swap
+//time complexity 0(n^2)
 #include<bits/stdc++.h>
 using namespace std;
 int bobble_sort(int a[],int len){
