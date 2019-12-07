@@ -1,4 +1,5 @@
 //sob theke chuto ta age jabe.....
+//time complexity O(n^2)
 #include<bits/stdc++.h>
 using namespace std;
 int selection_sort(int a[],int len)
